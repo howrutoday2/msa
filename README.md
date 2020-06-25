@@ -1,3 +1,2 @@
-# msa
-Dockerfile build
+# Dockerfile build
 https://hub.docker.com/repository/docker/howrutoday/ubuntu
